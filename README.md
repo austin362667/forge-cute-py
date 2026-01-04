@@ -75,7 +75,7 @@ Correctness is the primary gate for changes: kernels must match reference behavi
 
 ## Contributing
 
-TBA
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
